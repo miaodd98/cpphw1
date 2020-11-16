@@ -1,0 +1,16 @@
+No semicolon at the end of line 2
+Multi-Line Notes Mismatch at Line 3
+No semicolon at the end of line 5
+Wrong Parathesis Matching in Line 10
+No semicolon at the end of line 11
+Operator + Mismatch at Line 14
+Double Quotation Mask Mismatch at line 15
+Single Quotation Mask Mismatch at line 19
+No semicolon at the end of line 21
+Total Lines 23
+Total Errors in File 10
+Semicolon Loss 4
+Parathesis Mismatching 2
+Quotation Mark Mismatching 2
+Multi-Line Note Mismatching 1
+Operatoe Mismatching 1
