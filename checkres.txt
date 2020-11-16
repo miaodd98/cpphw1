@@ -13,4 +13,4 @@ Semicolon Loss 4
 Parathesis Mismatching 2
 Quotation Mark Mismatching 2
 Multi-Line Note Mismatching 1
-Operatoe Mismatching 1
+Operator Mismatching 1

@@ -299,7 +299,7 @@ void CGramCheck::writeCheck(ofstream &name)     //±£´æcheckres.txt
         name << "Parathesis Mismatching " << parathesis << '\n';    //À¨ºÅÆ¥Åä´íÎóÊý
         name << "Quotation Mark Mismatching " << quotationerrs << '\n'; //ÒýºÅÆ¥Åä´íÎóÊý
         name << "Multi-Line Note Mismatching " << noteerrs << '\n';     //¶àÐÐ×¢ÊÍÆ¥Åä´íÎó
-        name << "Operatoe Mismatching " << operrs << '\n';
+        name << "Operator Mismatching " << operrs << '\n';
     }
 }
 
